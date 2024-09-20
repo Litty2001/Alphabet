@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    background-color: #C4DAD2;
+}
+.head{
+    text-align: center;
+}
+.titles{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #16423C;
+    font-size: 67px;
+    text-shadow: 3px 0 #6A9C89 ;
+    margin: 45px;
+    margin-bottom: 60px;
+    
+  }
+.let{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+  }
+  .al{
+    border: 3px solid;
+    padding: 30px;
+    gap: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    font-size: 25px;
+  }
+  .a{
+    background-color: #FEF9D9;
+  }
+  .b{
+    background-color: #FEF9D9;
+  }
+  .c{
+    background-color:#FEF9D9;
+  }
+  
+  .d{
+    background-color: #FEF9D9;
+  }
+  .e{
+    background-color: #FEF9D9;
+  }
+  .f{
+    background-color: #FEF9D9;
+  }
+  .g{
+    background-color: #FEF9D9;
+  }
+  .h{
+    background-color: #FEF9D9;
+  }
+  .i{
+    background-color: #FEF9D9;
+  }
+  .j{
+    background-color: #FEF9D9;
+  }
+  .k{
+    background-color: #FEF9D9;
+  }
+  .l{
+    background-color: #FEF9D9;
+  }
+
+  .m{
+    background-color: #FEF9D9;
+  }
+  .n{
+    background-color: #FEF9D9;
+  }
+  .o{
+    background-color: #FEF9D9;
+  }
+  .p{
+    background-color: #FEF9D9;
+  }
+  .q{
+    background-color: #FEF9D9;
+  }
+  .r{
+    background-color: #FEF9D9;
+  }
+  .s{
+    background-color: #FEF9D9;
+  }
+  .t{
+    background-color: #FEF9D9;
+  }
+  .u{
+    background-color: #FEF9D9;
+  }
+  .v{
+    background-color: #FEF9D9;
+  }
+  .w{
+    background-color: #FEF9D9;
+  }
+  .x{
+    background-color: #FEF9D9;
+  }
+  .y{
+    background-color: #FEF9D9;
+  }
+  .z{
+    background-color: #FEF9D9;
+  }
